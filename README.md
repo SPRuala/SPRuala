@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SPRuala
-- 👀 I’m interested in food and java
+- 👀 I’m interested in all what I like
 - 🌱 I’m currently learning springboot
 - 💞️ I’m looking to collaborate on some people who like me
 - 📫 How to reach me :
