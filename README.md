@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on some people who like me
 - 📫 How to reach me :
 - 😄 Pronouns: 水煮菠菜
-- ⚡ Fun fact: I love ccq 可爱捏
+- ⚡ Fun fact: I love ccq 可爱捏  
+🐱‍🐉GoodBye
 
 <!---
 SPRuala/SPRuala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
